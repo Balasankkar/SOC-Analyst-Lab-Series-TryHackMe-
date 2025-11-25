@@ -25,7 +25,7 @@ Each lab simulates a real-world enterprise environment, offering exposure to com
 
 ---
 
-## 🧩 Example Labs & Exercises
+## 🧩 Labs & Exercises
 
 - **Security Information and Event Management (SIEM):** Analyzing Windows and Linux logs using Splunk / Wazuh  
 - **Incident Response:** Investigating and mitigating simulated ransomware incidents  
